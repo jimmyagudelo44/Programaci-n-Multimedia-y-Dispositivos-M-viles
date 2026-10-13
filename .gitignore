@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Capturas y sistema
+.DS_Store
+Thumbs.db
+
+# APKs y bundles generados
+*.apk
